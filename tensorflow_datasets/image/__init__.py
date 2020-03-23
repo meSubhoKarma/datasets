@@ -34,6 +34,7 @@ from tensorflow_datasets.image.lost_and_found import LostAndFound
 from tensorflow_datasets.image.lsun import Lsun
 from tensorflow_datasets.image.scene_parse_150 import SceneParse150
 from tensorflow_datasets.image.shapes3d import Shapes3d
+from tensorflow_datasets.image.stl10 import Stl10
 from tensorflow_datasets.image.the300w_lp import The300wLp
 
 # Legacy aliases
